@@ -23,19 +23,11 @@ export default class Team {
     return array;
   }
 
-  [Symbol.iterator]() {
-    let current = 0;
+  * [Symbol.iterator]() {
     const member = this.toArray();
-    const last = member.length - 1;
 
-    return {
-      next() {
-        if (current <= last) {
-          return { done: false, value: member[current++] };
-        } else {
-          return { done: true, value: undefined };
-        }
-      },
-    };
+    for (const person of member) {
+      yield person;
+    }
   }
 }
