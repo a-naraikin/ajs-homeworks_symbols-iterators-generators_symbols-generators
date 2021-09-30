@@ -1,2 +1,2 @@
-# ajs-homeworks-symbols-iterators-generators-symbols
-[![Build status](https://ci.appveyor.com/api/projects/status/pde61dwts0davauy?svg=true)](https://ci.appveyor.com/project/a-naraikin/ajs-homeworks-symbols-iterators-generators-symbols)
+# ajs-homeworks_symbols-iterators-generators_symbols-generators
+[![Build status](https://ci.appveyor.com/api/projects/status/ediij9y6y4yd4cyu?svg=true)](https://ci.appveyor.com/project/a-naraikin/ajs-homeworks-symbols-iterators-generators-symbols-m1a79)

@@ -1,7 +1,6 @@
 {
-  "name": "ajs-homeworks_symbols-iterators-generators_symbols-iterators",
+  "name": "ajs-homeworks_symbols-iterators-generators_symbols-generators",
   "version": "1.0.0",
-  "description": "[![Build status](https://ci.appveyor.com/api/projects/status/dafd8aaqibcysn97?svg=true)](https://ci.appveyor.com/project/Anna12god/ajs-homework-arraybuffer-arraybuffer)",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development --open",
@@ -41,10 +40,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/a-naraikin/ajs-homeworks_symbols-iterators-generators_symbols-iterators.git"
+    "url": "git+https://github.com/a-naraikin/ajs-homeworks_symbols-iterators-generators_symbols-generators.git"
   },
+  "description": "[![Build status](https://ci.appveyor.com/api/projects/status/ediij9y6y4yd4cyu?svg=true)](https://ci.appveyor.com/project/a-naraikin/ajs-homeworks-symbols-iterators-generators-symbols-m1a79)",
   "bugs": {
-    "url": "https://github.com/a-naraikin/ajs-homeworks_symbols-iterators-generators_symbols-iterators/issues"
+    "url": "https://github.com/a-naraikin/ajs-homeworks_symbols-iterators-generators_symbols-generators/issues"
   },
-  "homepage": "https://github.com/a-naraikin/ajs-homeworks_symbols-iterators-generators_symbols-iterators#readme"
+  "homepage": "https://github.com/a-naraikin/ajs-homeworks_symbols-iterators-generators_symbols-generators#readme"
 }
